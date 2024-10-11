@@ -27,18 +27,12 @@ Développer la mise en page et le design :
 Commencez par la page Accueil (index.html). Construisez la structure de base en utilisant HTML5 et stylisez avec CSS3.
 Assurez-vous que la barre de navigation contient des liens vers les autres pages : How it works, Explore, Review, Blog, et Contact.
 Respectez la cohérence visuelle de la marque SwiftFix et assurez-vous que le design est responsive avec des media queries.
-Implémenter les fonctionnalités clés :
-
-Formulaire de contact interactif : Ajoutez un formulaire de contact sur la page Contact avec des champs tels que nom, email, et message.
-Optimisation des performances : Minimisez les fichiers CSS et JS, et utilisez des images compressées pour conserver des temps de chargement rapides.
-Testez et optimisez la mise en page sur différents appareils (ordinateur, tablette et mobile).
-Effectuer des tests d’accessibilité et de validation de code :
 
 Utilisez les validateurs HTML et CSS du W3C pour vous assurer que le code est conforme aux normes du web.
 Exécutez des tests d'accessibilité avec des outils comme Axe ou WAVE pour identifier et corriger les problèmes courants.
 Tester sur différents navigateurs :
 
-Vérifiez la compatibilité du site sur plusieurs navigateurs comme Chrome, Firefox, Safari, et Edge.
+Vérifiez la compatibilité du site sur plusieurs navigateurs comme Chrome, Firefox, Edge ....
 
 ## Requirements
 -------------
