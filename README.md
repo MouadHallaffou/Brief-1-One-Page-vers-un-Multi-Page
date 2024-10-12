@@ -25,7 +25,7 @@ Le projet vise à faire évoluer le site vitrine de SwiftFix, actuellement une p
 Développer la mise en page et le design :
 
 Commencez par la page Accueil (index.html). Construisez la structure de base en utilisant HTML5 et stylisez avec CSS3.
-Assurez-vous que la barre de navigation contient des liens vers les autres pages : How it works, Explore, Review, Blog, et Contact.
+Assurez que la barre de navigation contient des liens vers les autres pages : works, Explore, Review, Blog, et Contact.
 Respectez la cohérence visuelle de la marque SwiftFix et assurez-vous que le design est responsive avec des media queries.
 
 Utilisez les validateurs HTML et CSS du W3C pour vous assurer que le code est conforme aux normes du web.
